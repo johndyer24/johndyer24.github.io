@@ -125,7 +125,7 @@ h1 h2 h3 p {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 	grid-template-rows: auto auto auto;
-	grid-column-gap: 40px;
+	grid-column-gap: 20px;
 	grid-row-gap: 40px;
 	max-width: 900px;
 	grid-row-start: 1;
@@ -358,6 +358,7 @@ h1 h2 h3 p {
   grid-row-end: 2;
   color: #959595;
   font-weight: lighter;
+  text-align: center;
 }
 
 .square-card {
