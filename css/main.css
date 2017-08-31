@@ -124,7 +124,7 @@ h1 h2 h3 p {
 
 .home-wrapper {
 	display: grid;
-	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+	grid-template-columns: 2fr auto 1fr 1fr auto 2fr;
 	grid-template-rows: auto auto auto;
 	grid-column-gap: 20px;
 	grid-row-gap: 40px;
@@ -432,15 +432,15 @@ h1 h2 h3 p {
 }*/
 
 #projects-card {
-  grid-column-start: 1;
-  grid-column-end: 4;
+  grid-column-start: 2;
+  grid-column-end: 3;
   grid-row-start: 2;
   grid-row-end: 4;
 }
 
 #experience-card {
-  grid-column-start: 4;
-  grid-column-end: 7;
+  grid-column-start: 5;
+  grid-column-end: 6;
   grid-row-start: 2;
   grid-row-end: 4;
 }
