@@ -18,9 +18,18 @@ body {
 	background-color: #EAEAEA;
 }
 
-h1 h2 h3 p {
-/*	margin: 0;
-	padding: 0;*/
+h2 {
+  font-size: 1.6em;
+}
+
+h3 {
+  font-size: 1.3em;
+  font-weight: lighter;
+}
+
+p {
+  /*font-weight: lighter;*/
+  font-size: 1.1em;
 }
 
 /*------------------------------------*/
@@ -136,7 +145,8 @@ h1 h2 h3 p {
 }
 
 .nav-item:hover {
-  border-bottom: 5px solid #FFF;
+  /*border-bottom: 5px solid #FFF;*/
+  background-color: #232323;
 }
 
 .nav-item-selected {
@@ -145,8 +155,14 @@ h1 h2 h3 p {
   display: flex;
   align-items: center;
   border-top: 5px solid transparent;
-  border-bottom: 5px solid #85DBCB;
-  color: #85DBCB;
+  /*border-bottom: 5px solid #85DBCB;
+  color: #85DBCB;*/
+  border-bottom: 5px solid #FFF;
+  color: #FFF;
+}
+
+.nav-item-selected:hover {
+  background-color: #232323;
 }
 
 .nav-text {
@@ -309,7 +325,7 @@ h1 h2 h3 p {
 	grid-row-end: 3;
 	grid-column-start: 2;
 	grid-column-end: 4;
-	font-weight: lighter;
+	/*font-weight: normal;*/
 }
 
 .card-description {
@@ -406,7 +422,7 @@ h1 h2 h3 p {
 	/*margin-top: 5px;*/
 	/*margin-bottom: 5px;*/
 	color: #959595;
-	font-weight: lighter;
+	/*font-weight: normal;*/
 }
 
 .detail-card-description {
@@ -468,11 +484,16 @@ h1 h2 h3 p {
   grid-row-start: 1;
   grid-row-end: 2;
   color: #959595;
-  font-weight: lighter;
+  /*font-weight: lighter;*/
   /*text-align: center;*/
   margin-left: 20px;
   margin-right: 20px;
 }
+
+/*.emphasis {
+  font-weight: lighter;
+  font-size: 1.2em;
+}*/
 
 .square-card {
 	display: grid;
@@ -673,8 +694,12 @@ h1 h2 h3 p {
 	}
 
   .profile-wrapper {
-    padding-bottom: 0;
+    padding-bottom: 5px;
   }
+
+  /*.nav-text {
+    padding-top: 10px;
+  }*/
 
 	#projects-card {
 		grid-column-start: 1;
