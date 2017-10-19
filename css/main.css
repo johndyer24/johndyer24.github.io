@@ -240,7 +240,7 @@ p {
 .projects-content {
 	display: grid;
 	grid-template-columns: 1fr auto 1fr;
-	grid-template-rows: auto auto auto 1fr;
+	grid-template-rows: auto auto auto auto 1fr;
 	grid-column-gap: 20px;
 	grid-row-gap: 15px;
 	padding-top: 20px;
@@ -588,21 +588,28 @@ p {
 	grid-column-start: 2;
 	grid-column-end: 3;
 	grid-row-start: 1;
-   	grid-row-end: 2;
+  grid-row-end: 2;
+}
+
+#slimesoccer-card {
+	grid-column-start: 2;
+	grid-column-end: 3;
+	grid-row-start: 2;
+  grid-row-end: 3;
 }
 
 #lettercraze-card {
 	grid-column-start: 2;
 	grid-column-end: 3;
-	grid-row-start: 2;
-   	grid-row-end: 3;
+	grid-row-start: 3;
+  grid-row-end: 4;
 }
 
 #personal-site-card {
 	grid-column-start: 2;
 	grid-column-end: 3;
-	grid-row-start: 3;
-  grid-row-end: 4;
+	grid-row-start: 4;
+  grid-row-end: 5;
 }
 
 /*------------------------------------*/
