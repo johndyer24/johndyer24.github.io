@@ -1,0 +1,130 @@
+[
+  {
+    "id": "driply",
+    "title": "Driply",
+    "subtitle": "Dropwise Inc, Worcester MA, Nov 2016 - present",
+    "description": "Driply is a social mobile platform that allows users to contribute to charitable causes and champion change. I am currently working with three other WPI students to develop the app, using React Native and Node.js.",
+    "image": "/assets/projects/driply/driply-qrscanner.png",
+    "link": "/projects/driply/",
+    "details": [
+      {
+        "type": "text",
+        "content": "Driply is a social mobile platform that allows users to contribute to charitable causes and champion change. The general idea is that users can scan QR codes at certain businesses with us to earn \"drops,\" which represent money that can then be donated to causes of their choice. Businesses will be able to sign up with us to align their brand with charity and obtain data regarding what their customers care about and what other businesses they go to."
+      },
+      {
+        "type": "image-small",
+        "content": {
+          "image": "/assets/projects/driply/driply-qrscanner.png",
+          "caption": "Users can scan QR codes to earn points"
+        }
+      },
+      {
+        "type": "text",
+        "content": "In order to contribute to development, I have been teaching myself React Native, through online tutorials and classes, open source examples, and my own experimentation. Over the summer I helped build a prototype. I helped create a simple functioning front-end, using Redux to manage application state. I connected the front-end to Firebase in order to store data, and I learned how to use Facebook's API for user authentication. Currently, we are developing a beta version. I am mainly working on the frontend app, but have also worked on other pieces, such as a web app to generate unique QR codes and create printable pdfs."
+      },
+      {
+        "type": "image-small",
+        "content": {
+          "image": "/assets/projects/driply/driply-profile.png",
+          "caption": "Another screenshot of the user's profile"
+        }
+      }
+    ]
+  },
+  {
+    "id": "slimesoccer",
+    "title": "Slime Soccer",
+    "subtitle": "CS4241 Webware, Worcester MA, Oct 2017",
+    "description": "I worked with two other students to create a multiplayer web game, <a href=\"http://slimesoccer.herokuapp.com/\" target=\"_blank\">Slime Soccer</a>. We used technologies such as Node.js, Express, and Socket.io.",
+    "image": "/assets/projects/slimesoccer/SlimeSoccerFeaturedImage.png",
+    "link": "/projects/slimesoccer/",
+    "details": [
+      {
+        "type": "text",
+        "content": "I worked with two other students to create a multiplayer web game, <a href=\"http://slimesoccer.herokuapp.com/\" target=\"_blank\">Slime Soccer</a>. We used technologies such as Node.js, Express, and Socket.io in order to allow multiple users to be able to play together in real time."
+      },
+      {
+        "type": "image",
+        "content": {
+          "image": "/assets/projects/slimesoccer/SlimeSoccerGameplay.png",
+          "caption": "A screenshot of the game"
+        }
+      },
+      {
+        "type": "text",
+        "content": "Users are able to join an existing game room, or create their own with custom physics. We also implemented simple but rather effective AI players for single-player gameplay."
+      },
+      {
+        "type": "image",
+        "content": {
+          "image": "/assets/projects/slimesoccer/SlimeSoccerCustomGame.png",
+          "caption": "Users can create games with custom settings"
+        }
+      }
+    ]
+  },
+  {
+    "id": "lettercraze",
+    "title": "LetterCraze",
+    "subtitle": "Software Engineering, WPI, Oct - Dec 2016",
+    "description": "I collaborated with four classmates to create a <a href=\"https://github.com/TeamCopperSoftware/LetterCraze/\" target=\"_blank\">boggle-like game</a> using Java within a seven-week term. We followed good software design principles, such as the MVC design pattern, and used tools such as the JUnit testing framework.",
+    "image": "/assets/projects/lettercraze/lettercraze.png",
+    "link": "/projects/lettercraze/",
+    "details": [
+      {
+        "type": "text",
+        "content": "LetterCraze was the main deliverable for my Software Engineering class. I was in a team of five students, and we had seven weeks to plan and build this game, based on the rules provided to us. LetterCraze is similar to boggle. There is a board with letter tiles, and the player forms words to score points, and unlock new levels. Depending on the level type, there is either a move limit, a time limit, or a specific set of words to find. We also created a separate application to design and export levels to be played in the main game. We used Java to code LetterCraze, specifically Swing for the interface, and JUnit for unit testing. The source code can be found on <a href=\"https://github.com/TeamCopperSoftware/LetterCraze/\" target=\"_blank\">GitHub</a>."
+      },
+      {
+        "type": "image",
+        "content": {
+          "image": "/assets/projects/lettercraze/lettercraze1.png",
+          "caption": "A typical level"
+        }
+      },
+      {
+        "type": "text",
+        "content": "My team started out by developing a set of use cases that captured all the possible interactions between the player and the application. We then created UML class diagrams, and used the Model-View-Controller design pattern when deciding how to organize our classes."
+      },
+      {
+        "type": "image",
+        "content": {
+          "image": "/assets/projects/lettercraze/lettercraze2.png",
+          "caption": "Map of game levels"
+        }
+      },
+      {
+        "type": "text",
+        "content": "I mostly worked on the controller and model classes. I implemented gameplay features such as calculating points and progress after each move, repopulating the board after each move, and undoing moves. I also took initiative to solve any bugs I encountered, so I ended up touching most areas of our code. In doing so, I gained a strong understanding of how everything worked together, and how I could structure any future applications I might create."
+      }
+    ]
+  },
+  {
+    "id": "personal-website",
+    "title": "Personal Website",
+    "subtitle": "Aug 2017",
+    "description": "I built this website to showcase examples of my work. I designed it to be responsive, and look good on any screen size, using CSS media querries, Flexbox, and Grid layout.",
+    "image": "/assets/projects/personal-website/experience-mobile.png",
+    "link": "/projects/personal-website/",
+    "details": [
+      {
+        "type": "text",
+        "content": "I built this static website from scratch, simply using HTML and CSS. I designed the site to be responsive, without the use of JavaScript or a framework like Bootstrap. I used CSS media querries, Flexbox, and Grid layout to create a design that looks good across all screen sizes and devices."
+      },
+      {
+        "type": "image-small",
+        "content": {
+          "image": "/assets/projects/personal-website/experience-mobile.png",
+          "caption": "My site on mobile"
+        }
+      },
+      {
+        "type": "image",
+        "content": {
+          "image": "/assets/projects/personal-website/experience-desktop.png",
+          "caption": "My site on desktop"
+        }
+      }
+    ]
+  }
+]

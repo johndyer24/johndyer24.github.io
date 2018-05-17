@@ -1,0 +1,32 @@
+[
+  {
+    "id": "dropwise",
+    "title": "Developer",
+    "subtitle": "Dropwise Inc, Worcester MA, Nov 2016 - present",
+    "description": "Dropwise is a startup at WPI that creates products that do social good. I joined to develop <a href=\"/projects#driply\">Driply</a>, a mobile platform for charity, and have helped pitch it at several events.",
+    "image": "/assets/experience/dropwise/dropwise.png",
+    "link": "/experience/dropwise/",
+    "details": [
+      {
+        "type": "text",
+        "content": "Dropwise is a startup at WPI that creates products that do social good. I joined last November to help develop Driply, a mobile platform for charity. To be able to contribute, I have been teaching myself React Native and other mobile development concepts. Over the summer, I helped build a prototype version, which I describe in more detail <a href=\"/projects/driply/\">here</a>."
+      },
+      {
+        "type": "text",
+        "content": "I also helped pitch Driply at several events. The last was a competition for <a href=\"https://www.wcti.org/press/startup-worcester-2017\" target=\"_blank\">StartUp Worcester</a>, an initiative of the Worcester Regional Chamber of Commerce’s Higher Education – Business Partnership, The Venture Forum, and Worcester CleanTech Incubator to provide support and work space to the region's entrepreneurs. Our pitch was recieved well and we were accepted into the program. We are currently developing a beta version of the app."
+      }
+    ]
+  },
+  {
+    "title": "Student",
+    "subtitle": "Worcester Polytechnic Institute, Aug 2015 - present",
+    "description": "I am pursuing a bachelor's degree in Computer Science, at a school that masterfully balances the teaching of theory and practice. Many of my courses are centered around hands-on projects and groupwork that promote independent learning and collaboration.",
+    "image": "/assets/experience/wpi/wpi.png",
+  },
+  {
+    "title": "Cashier",
+    "subtitle": "Crosby's Marketplace, Hamilton MA, Jun 2017 - present",
+    "description": "I provided customers with quick and accurate transactions. If customers had questions or issues, I took initiative to solve them independently, whenever possible.",
+    "image": "/assets/experience/crosbys/crosbys.png",
+  }
+]

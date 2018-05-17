@@ -1,0 +1,22 @@
+---
+layout: experience
+---
+{% assign item = site.data[page.type] | where:"id", page.itemId | first %}
+<div class="detail-card">
+  <h2 class="detail-card-title">{{ item.title}}</h2>
+  <h3 class="detail-card-subtitle">{{ item.subtitle }}</h3>
+  {% for elt in item.details %}
+    {% if elt.type == 'text' %}
+      <p class="detail-card-description">{{ elt.content | replace: '\', '' }}</p>
+    {% elsif elt.type == 'image'%}
+      <img class="detail-card-image" src="{{ elt.content.image }}" alt="{{ elt.content.caption }}">
+      <h4 class="detail-card-caption">{{ elt.content.caption }}</h4>
+    {% elsif elt.type == 'image-small' %}
+      <img class="detail-card-image width-75" src="{{ elt.content.image }}" alt="{{ elt.content.caption }}">
+      <h4 class="detail-card-caption">{{ elt.content.caption }}</h4>
+    {% endif %}
+  {% endfor %}
+</div>
+<script>
+console.log({{ item | jsonify }});
+</script>
