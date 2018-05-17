@@ -1,6 +1,7 @@
 ---
 title: Personal Website
 layout: experience
+permalink: /projects/personal-website/
 ---
 <div class="detail-card" id="personal-site">
   <!-- <img class="detail-card-pic" src="/assets/lettercraze.png" alt="LetterCraze" height="200" width="200"> -->

@@ -1,6 +1,7 @@
 ---
 title: Driply
 layout: experience
+permalink: /projects/driply/
 ---
 <div class="detail-card">
   <h2 class="detail-card-title">Driply</h2>

@@ -1,6 +1,7 @@
 ---
 title: Dropwise
 layout: experience
+permalink: /experience/dropwise/
 ---
 <div class="detail-card" id="dropwise">
   <!-- <img class="detail-card-pic" src="/assets/dropwise.png" alt="Dropwise Inc." height="200" width="200"> -->

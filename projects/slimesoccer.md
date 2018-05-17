@@ -1,6 +1,7 @@
 ---
 title: Slime Soccer
 layout: experience
+permalink: /projects/slimesoccer/
 ---
 <div class="detail-card" id="slimesoccer">
   <h2 class="detail-card-title">Slime Soccer</h2>

@@ -1,6 +1,7 @@
 ---
 title: LetterCraze
 layout: experience
+permalink: /projects/lettercraze/
 ---
 <div class="detail-card" id="lettercraze">
   <!-- <img class="detail-card-pic" src="/assets/lettercraze.png" alt="LetterCraze" height="200" width="200"> -->
