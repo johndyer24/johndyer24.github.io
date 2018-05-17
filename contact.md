@@ -1,6 +1,7 @@
 ---
 title: Contact
 layout: default
+permalink: /contact/
 ---
 <main class="contact-content">
   <a class="contact-item" href="mailto:jedyer@wpi.edu">

@@ -1,6 +1,7 @@
 ---
 title: Projects
 layout: experience
+permalink: /projects/
 ---
 <div class="card" id="driply-card">
   <img class="card-pic" src="/assets/driply-qrscanner.png" alt="Driply" height="200" width="200">
