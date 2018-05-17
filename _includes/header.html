@@ -1,0 +1,34 @@
+<header class="profile-header">
+  <div class="header-wrapper">
+    <a class="profile-wrapper" href="/">
+        <img class="profile-pic" src="/assets/profile-picture.jpg" alt="Profile Picture" height="70" width="70">
+        <h1 class="profile-title">John Dyer</h1>
+    </a>
+    <nav class="navigation">
+      <a href="/"
+        {% if page.title == "Home" %}class="nav-item-selected"
+        {% else %}class="nav-item"
+        {% endif %}>
+        <span class="nav-text">Home</span>
+      </a>
+      <a href="/projects"
+        {% if page.title == "Projects" %}class="nav-item-selected"
+        {% else %}class="nav-item"
+        {% endif %}>
+        <span class="nav-text">Projects</span>
+      </a>
+      <a href="/experience"
+        {% if page.title == "Experience" %}class="nav-item-selected"
+        {% else %}class="nav-item"
+        {% endif %}>
+        <span class="nav-text">Experience</span>
+      </a>
+      <a href="/contact"
+        {% if page.title == "Contact" %}class="nav-item-selected"
+        {% else %}class="nav-item"
+        {% endif %}>
+        <span class="nav-text">Contact</span>
+      </a>
+    </nav>
+  </div>
+</header>
