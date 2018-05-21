@@ -18,12 +18,21 @@
     ]
   },
   {
+    "id": "jekylldev",
+    "title": "Website Developer",
+    "subtitle": "WPI Computer Science Department, Dec 2017 - Mar 2018",
+    "description": "Developed <a href=\"https://cs582-18s.github.io/\" target=\"_blank\">class</a> and <a href=\"https://wpivis.github.io/\" target=\"_blank\">lab</a> websites for a WPI professor, and helped set up course infrastructure. Gained experience using Jekyll, GitHub Pages, and JavaScript libraries including Moment.js, Tipue Search, and Inquirer.js.",
+    "image": "/assets/experience/jekylldev/view-lab-logo.png"
+  },
+  {
+    "id": "wpi",
     "title": "Student",
     "subtitle": "Worcester Polytechnic Institute, Aug 2015 - present",
     "description": "I am pursuing a bachelor's degree in Computer Science, at a school that masterfully balances the teaching of theory and practice. Many of my courses are centered around hands-on projects and groupwork that promote independent learning and collaboration.",
     "image": "/assets/experience/wpi/wpi.png",
   },
   {
+    "id": "crosbys",
     "title": "Cashier",
     "subtitle": "Crosby's Marketplace, Hamilton MA, Jun 2017 - present",
     "description": "I provided customers with quick and accurate transactions. If customers had questions or issues, I took initiative to solve them independently, whenever possible.",
