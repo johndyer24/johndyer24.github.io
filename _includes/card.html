@@ -1,0 +1,9 @@
+<div class="card" id="{{ include.item.id }}">
+  <img class="card-pic" src="{{ include.item.image }}" alt="{{ include.item.title }}" height="200" width="200">
+  <h2 class="card-title">{{ include.item.title }}</h2>
+  <h3 class="card-subtitle">{{ include.item.subtitle }}</h3>
+  <p class="card-description">{{ include.item.description | replace: '\', ''}}</p>
+  {% if include.item.link %}
+    <a class="card-button" href="{{ include.item.link }}">More Info</a>
+  {% endif %}
+</div>
