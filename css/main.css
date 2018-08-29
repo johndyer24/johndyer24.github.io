@@ -306,6 +306,8 @@ p {
 	grid-row-end: 6;
 	grid-column-start: 1;
 	grid-column-end: 2;
+  /* width: 200px;
+  height: auto; */
 }
 
 .card-title {

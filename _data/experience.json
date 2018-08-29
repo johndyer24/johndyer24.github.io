@@ -1,21 +1,27 @@
 [
   {
-    "id": "dropwise",
-    "title": "Developer",
-    "subtitle": "Dropwise Inc, Worcester MA, Nov 2016 - present",
-    "description": "Dropwise is a startup at WPI that creates products that do social good. I joined to develop <a href=\"/projects#driply\">Driply</a>, a mobile platform for charity, and have helped pitch it at several events.",
-    "image": "/assets/experience/dropwise/dropwise.png",
-    "link": "/experience/dropwise/",
+    "id": "wayfair",
+    "title": "Software Engineering Intern",
+    "subtitle": "Wayfair, Boston MA, Jun - Aug 2018",
+    "description": "I worked with Wayfair's Delivery Experience team to build out features of their site that improve customer experience, and gained eperience with full-stack software development using PHP, SQL Server, and React.",
+    "image": "/assets/experience/wayfair/wayfair-logo.png",
     "details": [
       {
         "type": "text",
-        "content": "Dropwise is a startup at WPI that creates products that do social good. I joined last November to help develop Driply, a mobile platform for charity. To be able to contribute, I have been teaching myself React Native and other mobile development concepts. Over the summer, I helped build a prototype version, which I describe in more detail <a href=\"/projects/driply/\">here</a>."
+        "content": "While working on Wayfair I was able to contribute to x. I completed two projects, the first was to extend the functionality of Wayfair's SMS platform to allow customers to unsubscribe from categories of SMS messages, allowing them to tailer their experience to their liking."
       },
       {
         "type": "text",
-        "content": "I also helped pitch Driply at several events. The last was a competition for <a href=\"https://www.wcti.org/press/startup-worcester-2017\" target=\"_blank\">StartUp Worcester</a>, an initiative of the Worcester Regional Chamber of Commerce’s Higher Education – Business Partnership, The Venture Forum, and Worcester CleanTech Incubator to provide support and work space to the region's entrepreneurs. Our pitch was recieved well and we were accepted into the program. We are currently developing a beta version of the app."
+        "content": "My second project was to develop a proof of concept for a system to generate intelligent responses to incoming customer text messages using Dialogflow."
       }
     ]
+  },
+  {
+    "id": "dropwise",
+    "title": "Developer",
+    "subtitle": "Dropwise Inc, Worcester MA, Nov 2016 - present",
+    "description": "I joined WPI startup Dropwise to learn React Native mobile app development and create apps that help students. We launched our first app <a href=\"http://woodeals.app/\" target=\"_blank\">WooDeals</a> in August 2018.",
+    "image": "/assets/experience/dropwise/dropwise.png",
   },
   {
     "id": "jekylldev",
@@ -30,12 +36,5 @@
     "subtitle": "Worcester Polytechnic Institute, Aug 2015 - present",
     "description": "I am pursuing a bachelor's degree in Computer Science, at a school that masterfully balances the teaching of theory and practice. Many of my courses are centered around hands-on projects and groupwork that promote independent learning and collaboration.",
     "image": "/assets/experience/wpi/wpi.png",
-  },
-  {
-    "id": "crosbys",
-    "title": "Cashier",
-    "subtitle": "Crosby's Marketplace, Hamilton MA, Jun 2017 - present",
-    "description": "I provided customers with quick and accurate transactions. If customers had questions or issues, I took initiative to solve them independently, whenever possible.",
-    "image": "/assets/experience/crosbys/crosbys.png",
   }
 ]
