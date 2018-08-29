@@ -2,7 +2,7 @@
   {
     "id": "woodeals",
     "title": "WooDeals",
-    "subtitle": "Dropwise Inc, Worcester MA, Nov 2016 - present",
+    "subtitle": "Dropwise Inc, Worcester MA, Jun 2018 - present",
     "description": "<a href=\"http://woodeals.app/\" target=\"_blank\">WooDeals</a> is a mobile app that allows WPI students to find discounts at local eateries we've partnered with. I built this app using React Native and Firebase, and it is available on both the Apple App Store and Google Play Store.",
     "image": "/assets/projects/woodeals/woodeals-phone.png"
   },
