@@ -1,7 +1,7 @@
 ---
 title: Home
-layout: home
+layout: althome
 ---
 <p class="bio">
-  <span class="emphasis">Welcome!</span> I am a student and developer at Worcester Polytechnic Institute, interested in software engineering, web development, and data science. I have experience with React Native mobile app development, frontend web development using HTML, CSS, and JavaScript, and backend development using Node.js and frameworks such as express and socket.io. My strengths include a solid understanding of object-oriented design principles, the ability to collaborate effectively with others, and a strong drive to learn new skills and concepts. I created this website to share examples of my work.
+  Welcome! I am a student and developer at Worcester Polytechnic Institute, graduating in May 2019 with a degree in Computer Science. My interests include software engineering and data science, and I have experience with frontend development using <span class="emphasis">JavaScript, React, and CSS</span>, as well as backend development using <span class="emphasis">Node.js, PHP, and SQL.</span> I am also proficient in <span class="emphasis">React Native</span> mobile app development, and object-oriented design with languages such as <span>Java</span>. Throughout my projects I have used platforms including <span class="emphasis">Firebase, Google Cloud Platform, and Amazon Web Services.</span> I am able to collaborate effectively with others, and possess a strong drive to learn and apply new skills and concepts.
 </p>

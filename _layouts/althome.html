@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<main class="experience-content">
+  <div class="detail-card">
+    {{ content }}
+  </div>
+  <!-- <div class="detail-card">
+    <h2 class="home-card-title">Skills</h2>
+    <div class="skills-list">
+    <p class="home-card-description">Frontend development experience with JavaScript, React, and CSS</p>
+    <p class="home-card-description">Backend development experience with Node.js, PHP, and SQL</p>
+    <p class="home-card-description">React Native mobile development experience</p>
+    <p class="home-card-description">Understanding of object-oriented design with languages such as Java</p>
+    <p class="home-card-description">Experience using platforms including Firebase, Heroku, Google Cloud Platform, and Amazon Web Services</p>
+    </div>
+  </div> -->
+  <div class="detail-card">
+    <h2 class="home-card-title">Projects</h2>
+    <div class="home-card-gallery">
+      <img class="home-card-pic" src="{{ site.data.projects[0].image }}" alt="Experience Icon" height="200" width="200">
+      <img class="home-card-pic" src="{{ site.data.projects[1].image }}" alt="Experience Icon" height="200" width="200">
+      <img class="home-card-pic" src="{{ site.data.projects[2].image }}" alt="Experience Icon" height="200" width="200">
+    </div>
+    <p class="home-card-description">This past year I launched a mobile app, built a web application for an Australian nonprofit, and created a multiplayer online game. I gained practical experience using technologies including React Native, Node.js, Firebase, and Amazon Web Services.</p>
+    <a class="home-card-button" href="/projects/">View My Projects</a>
+  </div>
+  <div class="detail-card">
+    <h2 class="home-card-title">Experience</h2>
+    <div class="home-card-gallery">
+      <img class="home-card-pic" src="{{ site.data.experience[0].image }}" alt="Experience Icon" height="200" width="200">
+      <img class="home-card-pic" src="{{ site.data.experience[1].image }}" alt="Experience Icon" height="200" width="200">
+      <img class="home-card-pic" src="{{ site.data.experience[2].image }}" alt="Experience Icon" height="200" width="200">
+    </div>
+    <p class="home-card-description">This past year I worked as a Software Engineering Intern at Wayfair, developed a mobile app as part of a WPI startup, and built websites for a WPI professor. I used technologies including PHP, SQL Server, React, and React Native.</p>
+    <a class="home-card-button" href="/experience/">View My Experience</a>
+  </div>
+  <!-- <div class="home-wrapper">
+  </div> -->
+</main>

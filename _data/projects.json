@@ -7,6 +7,49 @@
     "image": "/assets/projects/woodeals/woodeals-phone.png"
   },
   {
+    "id": "iqp",
+    "title": "Work Readiness Skills Tool",
+    "subtitle": "Brotherhood of St Laurence, Melbourne Australia,  Jan - May 2018",
+    "description": "I collaborated with three other students and members of an Australian nonprofit to build a web application that allows underpriviledged youth to assess their skills. We used Node.js and Amazon Web Services including EC2, DynamoDB, and Cognito.",
+    "image": "/assets/projects/iqp/iqp.png",
+    "link": "/projects/work-readiness-skills-tool/",
+    "details": [
+      {
+        "type": "text",
+        "content": "I collaborated with three other students and members of an Australian nonprofit to build a web application that allows underpriviledged youth to assess their skills and identify industries that align with their talents."
+      },
+      {
+        "type": "text",
+        "content": "We used Node.js to build the web server and deployed it using AWS EC2. We used several other Amazon services including DynamoDB for data storage and Cognito for authentication."
+      },
+      {
+        "type": "image",
+        "content": {
+          "image": "/assets/projects/iqp/skills-tool.png",
+          "caption": "Youth can assess their abilities in 10 key areas",
+        }
+      },
+      {
+        "type": "text",
+        "content": "In addition to coding, we conducted extensive research and focus groups with youth to help guide development of the tool, and user testing to determine how user-friendly the final product was."
+      },
+      {
+        "type": "image",
+        "content": {
+          "image": "/assets/projects/iqp/radar-charts.png",
+          "caption": "Youth can visualize their skills in different formats and see their progression",
+        }
+      },
+      {
+        "type": "image",
+        "content": {
+          "image": "/assets/projects/iqp/industry-comparison.png",
+          "caption": "Youth can also see how their skills align to those required by major industries based on our research",
+        }
+      }
+    ]
+  },
+  {
     "id": "slimesoccer",
     "title": "Slime Soccer",
     "subtitle": "CS4241 Webware, Worcester MA, Oct 2017",
