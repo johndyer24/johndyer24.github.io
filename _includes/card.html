@@ -1,5 +1,5 @@
 <div class="card" id="{{ include.item.id }}">
-  <img class="card-pic" src="{{ include.item.image }}" alt="{{ include.item.title }}">
+  <img class="card-pic {% if include.item.image-shadow %}card-pic-shadow{% endif %}" src="{{ include.item.image }}" alt="{{ include.item.title }}">
   <h2 class="card-title">{{ include.item.title }}</h2>
   <h3 class="card-subtitle">{{ include.item.subtitle }}</h3>
   <p class="card-description">{{ include.item.description | replace: '\', ''}}</p>

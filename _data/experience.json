@@ -4,7 +4,8 @@
     "title": "Software Engineering Intern",
     "subtitle": "Wayfair, Boston MA, Jun - Aug 2018",
     "description": "I worked with Wayfair's Delivery Experience team to build out features of their site that improve customer experience, and gained eperience with full-stack software development using PHP, SQL Server, and React.",
-    "image": "/assets/experience/wayfair/wayfair-logo.png",
+    "image": "/assets/experience/wayfair/wayfair.png",
+    "image-shadow": true,
     "details": [
       {
         "type": "text",
@@ -22,13 +23,15 @@
     "subtitle": "Dropwise Inc, Worcester MA, Nov 2016 - present",
     "description": "I joined WPI startup Dropwise to learn React Native mobile app development and create apps that help students. We launched our first app <a href=\"http://woodeals.app/\" target=\"_blank\">WooDeals</a> in August 2018.",
     "image": "/assets/experience/dropwise/dropwise.png",
+    "image-shadow": true
   },
   {
     "id": "jekylldev",
     "title": "Website Developer",
     "subtitle": "WPI Computer Science Department, Dec 2017 - Mar 2018",
     "description": "Developed <a href=\"https://cs582-18s.github.io/\" target=\"_blank\">class</a> and <a href=\"https://wpivis.github.io/\" target=\"_blank\">lab</a> websites for a WPI professor, and helped set up course infrastructure. Gained experience using Jekyll, GitHub Pages, and JavaScript libraries including Moment.js, Tipue Search, and Inquirer.js.",
-    "image": "/assets/experience/jekylldev/view-lab-logo.png"
+    "image": "/assets/experience/jekylldev/view-lab-logo.png",
+    "image-shadow": true
   },
   {
     "id": "wpi",
