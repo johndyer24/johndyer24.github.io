@@ -120,29 +120,8 @@
   {
     "id": "personal-website",
     "title": "Personal Website",
-    "subtitle": "Aug 2017",
-    "description": "I built this website to showcase examples of my work. I designed it to be responsive, and look good on any screen size, using CSS media querries, Flexbox, and Grid layout.",
-    "image": "/assets/projects/personal-website/experience-mobile.png",
-    "link": "/projects/personal-website/",
-    "details": [
-      {
-        "type": "text",
-        "content": "I built this static website from scratch, simply using HTML and CSS. I designed the site to be responsive, without the use of JavaScript or a framework like Bootstrap. I used CSS media querries, Flexbox, and Grid layout to create a design that looks good across all screen sizes and devices."
-      },
-      {
-        "type": "image-small",
-        "content": {
-          "image": "/assets/projects/personal-website/experience-mobile.png",
-          "caption": "My site on mobile"
-        }
-      },
-      {
-        "type": "image",
-        "content": {
-          "image": "/assets/projects/personal-website/experience-desktop.png",
-          "caption": "My site on desktop"
-        }
-      }
-    ]
+    "subtitle": "Aug 2017, May 2018",
+    "description": "I built this website to showcase examples of my work. I designed it to be responsive using CSS media querries, Flexbox, and Grid layout. I later refactored the site using Jekyll to make it easier to maintain.",
+    "image": "/assets/projects/personal-website/homepage.png"
   }
 ]

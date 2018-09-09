@@ -29,7 +29,7 @@
     "id": "jekylldev",
     "title": "Website Developer",
     "subtitle": "WPI Computer Science Department, Dec 2017 - Mar 2018",
-    "description": "Developed <a href=\"https://cs582-18s.github.io/\" target=\"_blank\">class</a> and <a href=\"https://wpivis.github.io/\" target=\"_blank\">lab</a> websites for a WPI professor, and helped set up course infrastructure. Gained experience using Jekyll, GitHub Pages, and JavaScript libraries including Moment.js, Tipue Search, and Inquirer.js.",
+    "description": "I developed <a href=\"https://cs582-18s.github.io/\" target=\"_blank\">class</a> and <a href=\"https://wpivis.github.io/\" target=\"_blank\">lab</a> websites for a WPI professor, and helped set up course infrastructure. I gained experience using Jekyll, GitHub Pages, and JavaScript libraries including Moment.js, Tipue Search, and Inquirer.js.",
     "image": "/assets/experience/jekylldev/view-lab-logo.png",
     "image-shadow": true
   },
